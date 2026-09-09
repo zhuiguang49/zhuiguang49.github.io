@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guang Zhang"
-description              : "I am a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. I will join ZIP Lab at Zhejiang University as a master’s student, co‑advised by Prof. Bohan Zhuang and Prof. Zijian Guo. My research interests center on LLM post‑training and alignment algorithms for large language models."
+title                    : "Guang Zhang | 张广"
+description              : "Focusing on LLM post-training and LLM algorithms."
 repository               : "zhuiguang49/zhuiguang49.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Guang Zhang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Senior student in Information and Computing Science"
+  avatar           : "images/profile.jpg"
+  bio              : ""
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 

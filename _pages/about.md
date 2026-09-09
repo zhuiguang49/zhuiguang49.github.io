@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. I will join ZIP Lab at Zhejiang University as a master’s student, co‑advised by Prof. Bohan Zhuang and Prof. Zijian Guo. My research interests center on LLM post‑training and alignment algorithms for large language models.
+I am a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. I will join ZIP Lab at Zhejiang University as a master’s student, co‑advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/) and Prof. [Zijian Guo](https://zijguo.github.io/index.html). My research interests lie in LLM post‑training and alignment algorithms for large language models.
 
 
 
