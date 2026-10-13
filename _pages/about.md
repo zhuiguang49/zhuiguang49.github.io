@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. I will join [ZIP Lab](https://ziplab.co/) at Zhejiang University as a master’s student, co‑advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/) and Prof. [Zijian Guo](https://zijguo.github.io/index.html). My research interest lies in LLM post‑training and alignment algorithms for large language models.
-
+I am a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. I will join [ZIP Lab](https://ziplab.co/) at Zhejiang University as a master’s student, advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/). My research interest lies in the co-design of efficient AI algorithms and systems.
 
 
 
 # 🎖 Honors and Awards
+- *2026.10* **National Scholarship (Ministry of Education, China)**
+- *2026.10* Zhejiang University Scholarship-First Prize
 - *2025.11* CUMCM Provincial Third Prize (Zhejiang)
 - *2025.10* Zhejiang University Scholarship-Second Prize
 - *2025.10* NARADA Scholarship-Innovation Prize
