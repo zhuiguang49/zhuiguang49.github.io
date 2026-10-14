@@ -18,6 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. I will join [ZIP Lab](https://ziplab.co/) at Zhejiang University as a master’s student, advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/). My research interest lies in the co-design of efficient AI algorithms and systems.
+# 🔥 News
+- *2026.10:* 🎉🎉 I received **National Scholarship** and Zhejiang University Scholarship-First Prize.
+- *2025.10:* 🎉🎉 I received Zhejiang University Scholarship-Second Prize and NARADA Scholarship-Innovation Prize.
+- *2024.09:* 🎉🎉 I received China Collegiate Computing Contest - Network Technology Challenge, National Second Prize as the team leader.
 
 
 
